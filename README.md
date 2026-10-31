@@ -12,9 +12,9 @@ Download the five assets from the
 | `hw2_ckpt_flow_and_teacher.tar` | Flow matching with 100 clean demonstrations, seeds 0–2, and the retrained PPO teacher |
 
 The release also includes `checkpoints_manifest.json` and `SHA256SUMS.txt`.
-The 21 students were trained on the demonstration datasets supplied with the
-homework. The supplied PPO teacher was retrained separately; the report records
-the original and retrained teacher results separately.
+The 21 students were trained on the demonstration datasets in the submission.
+These datasets come from the original teacher. The supplied PPO teacher was
+trained separately for evaluation and diagnostics.
 
 ## Download and verify
 
